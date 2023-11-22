@@ -1,2 +1,2 @@
-# A project on creating front end design of a dummy portfolio website.
+# A project on creating front end design of a portfolio website.
 # HTML & CSS
