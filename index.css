@@ -1,6 +1,6 @@
 body{
     font-family: "Roboto";
-    color: #565656;
+    color: black;
 }
 
 header{
@@ -46,7 +46,6 @@ section h1, h2{
 
 section p{
     width:700px;
-    margin: 2em auto;
     line-height: 2.5em;
 }
 
@@ -59,11 +58,11 @@ h2 a{
 footer{
     background-color: lightgray;
     color: black;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 }
 
 footer a{
-    color: olivedrab;
+    color: darkgreen;
     text-decoration: none;
 }
