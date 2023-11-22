@@ -26,7 +26,6 @@ nav ul li{
     display: inline-block;
     padding: 10px 15px;
     font-size: 1.4em;
-    margin: 0px 30px;
     
 }
 
@@ -45,12 +44,12 @@ section h1, h2{
 }
 
 section p{
+    text-align: center;
     width:700px;
     line-height: 2.5em;
 }
 
 h2 a{
-    text-align: right;
     color: darkgreen;
     text-decoration: none;
 }
