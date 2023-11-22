@@ -35,8 +35,8 @@ li a{
 }
 
 section{
-
-   background-color: palegoldenrod;
+    text-align: center;
+    background-color: palegoldenrod;
 }
 
 section h1, h2{
@@ -44,7 +44,6 @@ section h1, h2{
 }
 
 section p{
-    text-align: center;
     width:700px;
     line-height: 2.5em;
 }
@@ -55,7 +54,7 @@ h2 a{
 }
 
 footer{
-    background-color: lightgray;
+    background-color: black;
     color: black;
     padding: 20px;
     text-align: center;
