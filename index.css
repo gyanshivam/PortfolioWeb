@@ -55,12 +55,12 @@ h2 a{
 
 footer{
     background-color: black;
-    color: black;
+    color: lightgreen;
     padding: 20px;
     text-align: center;
 }
 
 footer a{
-    color: darkgreen;
+    color: white;
     text-decoration: none;
 }
