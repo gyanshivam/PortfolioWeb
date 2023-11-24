@@ -13,7 +13,7 @@ header{
 }
 
 nav{
-    line-height: 30px;
+    /*line-height: 30px;*/
     text-decoration: none;
     background-color: palegreen;
     padding: 5px;
