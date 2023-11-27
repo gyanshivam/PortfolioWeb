@@ -1,0 +1,109 @@
+body{
+    font-family: "Roboto";
+    color: black;
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding:5px;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+nav{
+    /*line-height: 30px;*/
+    text-decoration: none;
+    background-color: palegreen;
+    padding: 5px;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 1.4em;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+section{
+    max-width:700px;
+    text-align: left;
+    padding: 10px;
+    background-color: white;
+    margin: 2em auto;
+}
+img{
+    border: solid;
+    border-color: darkgreen;
+}
+section h2{
+    text-align: center;    
+}
+
+section p{
+    line-height: 2.0em;
+}
+
+ul#title{
+    text-align: left;
+}
+
+h3.all{
+    text-align: center;
+}
+
+h3.all a{
+    color: darkgreen;
+    text-decoration: none;
+}
+
+h2 a{
+    color: darkgreen;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: lightgreen;
+    padding: 20px;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.left{
+    float: left;
+    font-size: large;
+    text-align: centre;
+    width: 30%;
+}
+
+.right{
+    font-size: large;
+    float: right;
+    text-align: right;
+    width: 62%;
+    border: solid green;
+    box-sizing: border-box;
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;    
+}
