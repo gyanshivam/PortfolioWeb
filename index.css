@@ -30,12 +30,12 @@ nav ul li{
     
 }
 
-nav ul li a{
-    text-decoration: none;
-}
-
 li a{
     color: darkgreen;
+}
+
+nav ul li a{
+    text-decoration: none;
 }
 
 section{
