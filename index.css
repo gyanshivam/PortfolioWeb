@@ -50,7 +50,7 @@ img{
     border: solid;
     border-color: darkgreen;
     float: left;
-    margin-right: 20px; 
+    margin: 20px; 
 }
 
 
@@ -129,7 +129,7 @@ footer a{
     font-size: large;
     float: right;
     text-align: right;
-    width: 68%;
+    width: 62%;
     border: solid green;
     box-sizing: border-box;
 }
