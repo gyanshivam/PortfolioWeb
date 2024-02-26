@@ -132,6 +132,7 @@ footer a{
     width: 75%;
     border: solid green;
     box-sizing: border-box;
+    padding: 5px;
 }
 
 .clearfix::after{
