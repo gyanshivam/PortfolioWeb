@@ -91,14 +91,14 @@ footer a{
     float: left;
     font-size: large;
     text-align: centre;
-    width: 30%;
+    width: 25%;
 }
 
 .right{
     font-size: large;
     float: right;
     text-align: right;
-    width: 62%;
+    width: 58%;
     border: solid green;
     box-sizing: border-box;
 }
