@@ -48,7 +48,7 @@ section{
 img{
     border: solid;
     border-color: darkgreen;
-    
+    float: left;
 }
 section h2{
     text-align: center;    
@@ -99,7 +99,7 @@ footer a{
     font-size: large;
     float: right;
     text-align: right;
-    width: 58%;
+    width: 68%;
     border: solid green;
     box-sizing: border-box;
 }
