@@ -121,14 +121,14 @@ footer a{
 .left{
     float: left;
     font-size: large;
-    text-align: centre;
-    width: 20%;
+    text-align: center;
+    width: 25%;
 }
 
 .right{
     font-size: large;
     float: right;
-    text-align: left;
+    text-align: center;
     width: 75%;
     border: solid green;
     box-sizing: border-box;
