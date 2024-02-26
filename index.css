@@ -128,7 +128,7 @@ footer a{
 .right{
     font-size: large;
     float: right;
-    text-align: centre;
+    text-align: left;
     width: 55%;
     border: solid green;
     box-sizing: border-box;
